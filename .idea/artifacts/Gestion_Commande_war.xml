@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Gestion_Commande:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Gestion_Commande</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Gestion_Commande-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Gestion_Commande:war exploded" />
+    </root>
+  </artifact>
+</component>
